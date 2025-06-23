@@ -1,0 +1,3055 @@
+LOCUS       E1E2DYW_pAGM9121        2640 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  Consensus DYW domain (Royan et al. 2021).
+ACCESSION   urn.local...4p4-hutvx2i
+VERSION     urn.local...4p4-hutvx2i
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     CDS             2055..2624
+                     /translation="EPGCSWIEVKNKVHEFVAGDRSHPQSEEIYAKLEELSEKMKEAG
+                     YVPDTSFVLHDVEEEEKEQMLSYHSEKLAIAFGLISTPPGTPIRIVKNLRVCGDCHTA
+                     IKFISKIVGREIIVRDSNRFHHFKDGSCSCGDYW"
+                     /standard_name="DYW"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacaacgtt gaattgggag agagagctgc tgagaaactt tttgaattgg
+     2101 agccagaatc ttctggtaac tacgttcttt tgtctaacat ctatgcttct gctggaagat
+     2161 gggatgatgt tgctaaggtt agaaaaatga tgaaggaaag aggtatcaag aaagagcctg
+     2221 gatgttcttg gattgaagtt aagaataagg ttcatgagtt cgttgctgga gatagatcac
+     2281 atccacaatc tgaagaaatc tatgctaaac ttgaagagtt gtctgaaaag atgaaagagg
+     2341 ctggatatgt tcctgatact tcttttgttc ttcatgatgt tgaagaggaa gagaaagaac
+     2401 agatgttgtc ttaccattct gagaaacttg ctatcgcttt cggtttgatt tctactcctc
+     2461 caggaacacc aatcagaatc gttaaaaatc ttagagtttg tggagattgt catacagcta
+     2521 ttaaattcat ctctaagatt gttggaagag aaattatcgt tagagattct aacagattcc
+     2581 atcatttcaa ggatggttct tgttcttgtg gagattattg gtaagcttcg agaccacgaa
+//
+LOCUS       P2(A)L2S2_pAGM9121        2420 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  P2L2S2 motif linker for DYW editing domain, P2 specific for A.
+ACCESSION   urn.local...bcq-hkylj4c
+VERSION     urn.local...bcq-hkylj4c
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2058..2408
+                     /standard_name="P2(A)L2S2"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcatgtgtct tggaccgcaa tgatctctgg ttacgctatg catggacatg
+     2101 gtaaagaggc tcttgaactc ttcgaagaga tgcaacagtc tggtattaag cctaatcatg
+     2161 ttactttcac aggagttctt tctgcttgtt ctcatgctgg tttggttgat gagggacgcc
+     2221 aatacttcaa ctctatgaag aaggattacg gtatcgaacc aagaattgag cattacggtt
+     2281 gcatggtgga cctcctgggt cgcgcaggcc gtctggagga agcgtacgaa ttcattaaga
+     2341 acatgccgat caaaccagat gcggttgttt ggggtgctct tttgggtgct tgtaggattc
+     2401 atggcaaccg agaccacgaa
+//
+LOCUS       P2(C)L2S2_pAGM9121        2420 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  P2L2S2 motif linker for DYW editing domain, P2 specific for C.
+ACCESSION   urn.local...bcr-hkylj4c
+VERSION     urn.local...bcr-hkylj4c
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2058..2408
+                     /standard_name="P2(C)L2S2"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcatgtgtct tggaatgcaa tgatctctgg ttacgctatg catggacatg
+     2101 gtaaagaggc tcttgaactc ttcgaagaga tgcaacagtc tggtattaag cctaatcatg
+     2161 ttactttcac aggagttctt tctgcttgtt ctcatgctgg tttggttgat gagggacgcc
+     2221 aatacttcaa ctctatgaag aaggattacg gtatcgaacc aagaattgag cattacggtt
+     2281 gcatggtgga cctcctgggt cgcgcaggcc gtctggagga agcgtacgaa ttcattaaga
+     2341 acatgccgat caaaccagat gcggttgttt ggggtgctct tttgggtgct tgtaggattc
+     2401 atggcaaccg agaccacgaa
+//
+LOCUS       P2(G)L2S2_pAGM9121        2420 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  P2L2S2 motif linker for DYW editing domain, P2 specific for G.
+ACCESSION   urn.local...bcs-hkylj4c
+VERSION     urn.local...bcs-hkylj4c
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2058..2408
+                     /standard_name="P2(G)L2S2"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcatgtgtct tggaccgcaa tgatctctgg ttacgctatg catggacatg
+     2101 gtaaagaggc tcttgaactc ttcgaagaga tgcaacagtc tggtattaag cctgatcatg
+     2161 ttactttcac aggagttctt tctgcttgtt ctcatgctgg tttggttgat gagggacgcc
+     2221 aatacttcaa ctctatgaag aaggattacg gtatcgaacc aagaattgag cattacggtt
+     2281 gcatggtgga cctcctgggt cgcgcaggcc gtctggagga agcgtacgaa ttcattaaga
+     2341 acatgccgat caaaccagat gcggttgttt ggggtgctct tttgggtgct tgtaggattc
+     2401 atggcaaccg agaccacgaa
+//
+LOCUS       P2(U)L2S2_pAGM9121        2420 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  P2L2S2 motif linker for DYW editing domain, P2 specific for U.
+ACCESSION   urn.local...bct-hkylj4c
+VERSION     urn.local...bct-hkylj4c
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2058..2408
+                     /standard_name="P2(U)L2S2"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcatgtgtct tggaatgcaa tgatctctgg ttacgctatg catggacatg
+     2101 gtaaagaggc tcttgaactc ttcgaagaga tgcaacagtc tggtattaag cctgatcatg
+     2161 ttactttcac aggagttctt tctgcttgtt ctcatgctgg tttggttgat gagggacgcc
+     2221 aatacttcaa ctctatgaag aaggattacg gtatcgaacc aagaattgag cattacggtt
+     2281 gcatggtgga cctcctgggt cgcgcaggcc gtctggagga agcgtacgaa ttcattaaga
+     2341 acatgccgat caaaccagat gcggttgttt ggggtgctct tttgggtgct tgtaggattc
+     2401 atggcaaccg agaccacgaa
+//
+LOCUS       PPR1_1_pAGM9121         2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LD5N_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LN5N_-_pAGM1311,
+            pPR-1_1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7dc-hkth2e3
+VERSION     urn.local...7dc-hkth2e3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg ttcgacaaaa
+     2281 tgccggaaag ggacgtagtt tcttggaccg ccatgatcag tggatacgca cagaatggac
+     2341 gcatagacga agcacgggaa cttttcgata aaatgccaga gcgcaatgtg gtaagttgga
+     2401 acgcgatgat cagcggctac gcacaaaatg gccgtattga cgaggcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_2_pAGM9121         2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5T_AGGT_-_pAGM1311, pPR-1_B_LN5N_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LN5N_-_pAGM1311,
+            pPR-1_1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7fj-hkth8dy
+VERSION     urn.local...7fj-hkth8dy
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="T"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="N"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg accgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaaa cgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg ttcgacaaaa
+     2281 tgccggaaag ggacgtagtt tcttggaccg ccatgatcag tggatacgca cagaatggac
+     2341 gcatagacga agcacgggaa cttttcgata aaatgccaga gcgcaatgtg gtaagttgga
+     2401 acgcgatgat cagcggctac gcacaaaatg gccgtattga cgaggcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_3_pAGM9121         2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LN5N_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LN5N_-_pAGM1311,
+            pPR-1_1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7hk-hkthgcx
+VERSION     urn.local...7hk-hkthgcx
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="N"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaaa cgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg ttcgacaaaa
+     2281 tgccggaaag ggacgtagtt tcttggaccg ccatgatcag tggatacgca cagaatggac
+     2341 gcatagacga agcacgggaa cttttcgata aaatgccaga gcgcaatgtg gtaagttgga
+     2401 acgcgatgat cagcggctac gcacaaaatg gccgtattga cgaggcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_4_pAGM9121         2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5T_AGGT_-_pAGM1311, pPR-1_B_LD5N_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LN5N_-_pAGM1311,
+            pPR-1_1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7j7-hkthkbz
+VERSION     urn.local...7j7-hkthkbz
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="T"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg accgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg ttcgacaaaa
+     2281 tgccggaaag ggacgtagtt tcttggaccg ccatgatcag tggatacgca cagaatggac
+     2341 gcatagacga agcacgggaa cttttcgata aaatgccaga gcgcaatgtg gtaagttgga
+     2401 acgcgatgat cagcggctac gcacaaaatg gccgtattga cgaggcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_5_pAGM9121         2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LD5T_-_pAGM1311,
+            pPR-1_C_LN5T_-_pAGM1311, pPR-1_D_LN5N_-_pAGM1311,
+            pPR-1_1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7lm-hkthnqv
+VERSION     urn.local...7lm-hkthnqv
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="T"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="N"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaccgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagagctg ttcgacaaga
+     2281 tgccagaacg caatgtagtg tcgtggacgg ctatgatatc cgggtatgca cagaatggaa
+     2341 gaatagacga agcacgggaa cttttcgata aaatgccaga gcgcaatgtg gtaagttgga
+     2401 acgcgatgat cagcggctac gcacaaaatg gccgtattga cgaggcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_6_pAGM9121         2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, PPR-1_1A_N_AGGT_-_pAGM1311, pPR-1_B_LD5N_-_pAGM1311,
+            pPR-1_C_LN5T_-_pAGM1311, pPR-1_D_LN5N_-_pAGM1311,
+            pPR-1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7nb-hkths10
+VERSION     urn.local...7nb-hkths10
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="N"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagagctg ttcgacaaga
+     2281 tgccagaacg caatgtagtg tcgtggacgg ctatgatatc cgggtatgca cagaatggaa
+     2341 gaatagacga agcacgggaa cttttcgata aaatgccaga gcgcaatgtg gtaagttgga
+     2401 acgcgatgat cagcggctac gcacaaaatg gccgtattga cgaggcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_7_pAGM9121         2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LD5T_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LN5N_-_pAGM1311,
+            pPR-1_1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7pi-hkthwci
+VERSION     urn.local...7pi-hkthwci
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="T"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaccgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg ttcgacaaaa
+     2281 tgccggaaag ggacgtagtt tcttggaccg ccatgatcag tggatacgca cagaatggac
+     2341 gcatagacga agcacgggaa cttttcgata aaatgccaga gcgcaatgtg gtaagttgga
+     2401 acgcgatgat cagcggctac gcacaaaatg gccgtattga cgaggcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_8_pAGM9121         2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LD5N_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LN5N_-_pAGM1311,
+            pPR-1_1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7rh-hkti1x1
+VERSION     urn.local...7rh-hkti1x1
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="N"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg tttgacaaaa
+     2281 tgccagaaag agacgtagtg agctggaacg ccatgatatc gggatatgcc caaaatggca
+     2341 ggattgatga ggcacgggaa cttttcgata aaatgccaga gcgcaatgtg gtaagttgga
+     2401 acgcgatgat cagcggctac gcacaaaatg gccgtattga cgaggcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_9_pAGM9121         2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LD5N_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LD5N_-_pAGM1311,
+            pPR-1_1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7t8-hkti4ew
+VERSION     urn.local...7t8-hkti4ew
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="D"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg ttcgacaaaa
+     2281 tgccggaaag ggacgtagtt tcttggaccg ccatgatcag tggatacgca cagaatggac
+     2341 gcatagacga agcacgggaa ttatttgata aaatgcctga acgtgacgtg gtgtcatgga
+     2401 acgctatgat ctccgggtac gcccaaaacg gacggatcga cgaagcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_10_pAGM9121        2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LD5N_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LD5N_-_pAGM1311,
+            pPR-1_1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7v5-hkti6t7
+VERSION     urn.local...7v5-hkti6t7
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="N"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="D"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg tttgacaaaa
+     2281 tgccagaaag agacgtagtg agctggaacg ccatgatatc gggatatgcc caaaatggca
+     2341 ggattgatga ggcacgggaa ttatttgata aaatgcctga acgtgacgtg gtgtcatgga
+     2401 acgctatgat ctccgggtac gcccaaaacg gacggatcga cgaagcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_11_pAGM9121        2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LD5N_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LN5T_-_pAGM1311,
+            pPR-1_1E_LN5T_-_pAGM1311.
+ACCESSION   urn.local...7x0-hkti8uy
+VERSION     urn.local...7x0-hkti8uy
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="T"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg ttcgacaaaa
+     2281 tgccggaaag ggacgtagtt tcttggaccg ccatgatcag tggatacgca cagaatggac
+     2341 gcatagacga agcacgggag ttgtttgaca agatgcctga acgcaatgtg gtgtcttgga
+     2401 cggcgatgat ctcagggtat gcacaaaatg gaagaatcga cgaagctcgt gaacttttcg
+     2461 acaaaatgcc agagcgtaac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_12_pAGM9121        2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LD5N_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LN5T_-_pAGM1311,
+            pPR-1_1E_LD5T_-_pAGM1311.
+ACCESSION   urn.local...7z3-hktibj7
+VERSION     urn.local...7z3-hktibj7
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="T"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="D"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg ttcgacaaaa
+     2281 tgccggaaag ggacgtagtt tcttggaccg ccatgatcag tggatacgca cagaatggac
+     2341 gcatagacga agcacgggag ttgtttgaca agatgcctga acgcaatgtg gtgtcttgga
+     2401 cggcgatgat ctcagggtat gcacaaaatg gaagaatcga cgaagctcgt gaacttttcg
+     2461 acaaaatgcc agagcgtgac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_13_pAGM9121        2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LD5N_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LN5N_-_pAGM1311,
+            pPR-1_1E_LD5T_-_pAGM1311.
+ACCESSION   urn.local...80s-hktiekc
+VERSION     urn.local...80s-hktiekc
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="D"
+     protein_bind    2493..2495
+                     /standard_name="T"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg ttcgacaaaa
+     2281 tgccggaaag ggacgtagtt tcttggaccg ccatgatcag tggatacgca cagaatggac
+     2341 gcatagacga agcacgggaa cttttcgata aaatgccaga gcgcaatgtg gtaagttgga
+     2401 acgcgatgat cagcggctac gcacaaaatg gccgtattga cgaggcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtgac gttgtttctt ggaccgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR1_14/15_pAGM9121        2564 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_1A_5N_AGGT_-_pAGM1311, pPR-1_B_LD5N_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LN5N_-_pAGM1311,
+            pPR-1_1E_LN5N_-_pAGM1311.
+ACCESSION   urn.local...82n-hktigh8
+VERSION     urn.local...82n-hktigh8
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2174
+     misc_feature    2067..2108
+                     /note="Geneious type: motif"
+                     /standard_name="N-terminal Solvating Helix"
+     protein_bind    2121..2123
+                     /standard_name="N"
+     CDS             2175..2261
+     protein_bind    2199..2201
+                     /standard_name="D"
+     protein_bind    2214..2216
+                     /standard_name="N"
+     CDS             2262..2351
+     protein_bind    2292..2294
+                     /standard_name="D"
+     protein_bind    2307..2309
+                     /standard_name="T"
+     CDS             2352..2450
+     protein_bind    2385..2387
+                     /standard_name="N"
+     protein_bind    2400..2402
+                     /standard_name="N"
+     CDS             2451..2549
+     protein_bind    2478..2480
+                     /standard_name="N"
+     protein_bind    2493..2495
+                     /standard_name="N"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcaaggtggt aattctgagg agcccagaaa gtcatttgat gagcgtcctg
+     2101 aaagaggcgt tgtttcttgg aatgctatga tctctggata cgctcagaac ggtcgtattg
+     2161 atgaagcaag agaactcttc gataagatgc ctgaaagaga tgttgtttct tggaacgcaa
+     2221 tgatctctgg ttacgctcag aacggtagga tcgatgaggc aagagaattg ttcgacaaaa
+     2281 tgccggaaag ggacgtagtt tcttggaccg ccatgatcag tggatacgca cagaatggac
+     2341 gcatagacga agcacgggaa cttttcgata aaatgccaga gcgcaatgtg gtaagttgga
+     2401 acgcgatgat cagcggctac gcacaaaatg gccgtattga cgaggcccgt gaacttttcg
+     2461 acaaaatgcc agagcgtaat gttgtttctt ggaatgcaat gatctctgga tatgcacaga
+     2521 acggtagaat cgacgaagct agagaactct tccgagacca cgaa
+//
+LOCUS       PPR2_1_pAGM9121         2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LN5T_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LD5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...86t-hktjqfu
+VERSION     urn.local...86t-hktjqfu
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg tttgacaaaa tgccagaaag agacgtagtg agctggaacg
+     2281 ccatgatatc gggatatgcc caaaatggca ggattgatga ggcacgggag ctttttgata
+     2341 agatgcctga acgagatgtg gtgtcctgga cagcaatgat ctcggggtat gctcaaaacg
+     2401 gtcggataga cgaagcacgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_15/16_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LD5N_-_pAGM1311, pPR-1_B_LN5T_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LD5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...89g-hktxf2i
+VERSION     urn.local...89g-hktxf2i
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="D"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agagggatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg tttgacaaaa tgccagaaag agacgtagtg agctggaacg
+     2281 ccatgatatc gggatatgcc caaaatggca ggattgatga ggcacgggag ctttttgata
+     2341 agatgcctga acgagatgtg gtgtcctgga cagcaatgat ctcggggtat gctcaaaacg
+     2401 gtcggataga cgaagcacgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_17_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5T_-_pAGM1311, pPR-1_B_LN5T_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LD5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...8bf-hktxhgk
+VERSION     urn.local...8bf-hktxhgk
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="T"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg accgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg tttgacaaaa tgccagaaag agacgtagtg agctggaacg
+     2281 ccatgatatc gggatatgcc caaaatggca ggattgatga ggcacgggag ctttttgata
+     2341 agatgcctga acgagatgtg gtgtcctgga cagcaatgat ctcggggtat gctcaaaacg
+     2401 gtcggataga cgaagcacgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_18_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5T_-_pAGM1311, pPR-1_B_LD5T_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LD5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...8du-hktxju7
+VERSION     urn.local...8du-hktxju7
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="T"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="D"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg accgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaga tgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg tttgacaaaa tgccagaaag agacgtagtg agctggaacg
+     2281 ccatgatatc gggatatgcc caaaatggca ggattgatga ggcacgggag ctttttgata
+     2341 agatgcctga acgagatgtg gtgtcctgga cagcaatgat ctcggggtat gctcaaaacg
+     2401 gtcggataga cgaagcacgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_19_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LD5T_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LD5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...8gf-hktxlse
+VERSION     urn.local...8gf-hktxlse
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="D"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaga tgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg tttgacaaaa tgccagaaag agacgtagtg agctggaacg
+     2281 ccatgatatc gggatatgcc caaaatggca ggattgatga ggcacgggag ctttttgata
+     2341 agatgcctga acgagatgtg gtgtcctgga cagcaatgat ctcggggtat gctcaaaacg
+     2401 gtcggataga cgaagcacgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_20_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LN5T_-_pAGM1311,
+            pPR-1_C_LN5N_-_pAGM1311, pPR-1_D_LD5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...8iu-hktxnta
+VERSION     urn.local...8iu-hktxnta
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="N"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaatta tttgacaaga tgccagagag gaacgtggta tcttggaatg
+     2281 ccatgatttc aggttacgcg cagaacggga ggatcgacga agcacgggag ctttttgata
+     2341 agatgcctga acgagatgtg gtgtcctgga cagcaatgat ctcggggtat gctcaaaacg
+     2401 gtcggataga cgaagcacgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_21_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LN5N_-_pAGM1311,
+            pPR-1_C_LN5N_-_pAGM1311, pPR-1_D_LD5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...8lz-hktxr2d
+VERSION     urn.local...8lz-hktxr2d
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="N"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="N"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaacgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaatta tttgacaaga tgccagagag gaacgtggta tcttggaatg
+     2281 ccatgatttc aggttacgcg cagaacggga ggatcgacga agcacgggag ctttttgata
+     2341 agatgcctga acgagatgtg gtgtcctgga cagcaatgat ctcggggtat gctcaaaacg
+     2401 gtcggataga cgaagcacgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_22_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LN5N_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LD5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...8p0-hktxt42
+VERSION     urn.local...8p0-hktxt42
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="N"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaacgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg tttgacaaaa tgccagaaag agacgtagtg agctggaacg
+     2281 ccatgatatc gggatatgcc caaaatggca ggattgatga ggcacgggag ctttttgata
+     2341 agatgcctga acgagatgtg gtgtcctgga cagcaatgat ctcggggtat gctcaaaacg
+     2401 gtcggataga cgaagcacgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_23_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LN5T_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LN5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...8s3-hktxw7c
+VERSION     urn.local...8s3-hktxw7c
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="T"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="N"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg ttcgacaaaa tgccggaaag ggacgtagtt tcttggaccg
+     2281 ccatgatcag tggatacgca cagaatggac gcatagacga agcacgggag ttgtttgaca
+     2341 agatgcctga acgcaatgtg gtgtcttgga cggcgatgat ctcagggtat gcacaaaatg
+     2401 gaagaatcga cgaagctcgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_24_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LN5T_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LN5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...8um-hktxy0h
+VERSION     urn.local...8um-hktxy0h
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="N"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg tttgacaaaa tgccagaaag agacgtagtg agctggaacg
+     2281 ccatgatatc gggatatgcc caaaatggca ggattgatga ggcacgggag ttgtttgaca
+     2341 agatgcctga acgcaatgtg gtgtcttgga cggcgatgat ctcagggtat gcacaaaatg
+     2401 gaagaatcga cgaagctcgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_25_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LN5T_-_pAGM1311,
+            pPR-1_C_LD5T_-_pAGM1311, pPR-1_D_LD5T_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...8xn-hkty0e0
+VERSION     urn.local...8xn-hkty0e0
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="T"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg ttcgacaaaa tgccggaaag ggacgtagtt tcttggaccg
+     2281 ccatgatcag tggatacgca cagaatggac gcatagacga agcacgggag ctttttgata
+     2341 agatgcctga acgagatgtg gtgtcctgga cagcaatgat ctcggggtat gctcaaaacg
+     2401 gtcggataga cgaagcacgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_26_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LN5T_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LD5T_-_pAGM1311,
+            pPR-1_2E_LN_-_pAGM1311.
+ACCESSION   urn.local...902-hkty2uz
+VERSION     urn.local...902-hkty2uz
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="T"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="N"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg tttgacaaaa tgccagaaag agacgtagtg agctggaacg
+     2281 ccatgatatc gggatatgcc caaaatggca ggattgatga ggcacgggag ctttttgata
+     2341 agatgcctga acgagatgtg gtgtcctgga cagcaatgat ctcggggtat gctcaaaacg
+     2401 gtcggataga cgaagcacgt gaacttttcg acaaaatgcc agagcgtaac gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_27_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LN5T_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LD5N_-_pAGM1311,
+            pPR-1_2E_LN_-_pAGM1311.
+ACCESSION   urn.local...935-hkty4wx
+VERSION     urn.local...935-hkty4wx
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="N"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="N"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg tttgacaaaa tgccagaaag agacgtagtg agctggaacg
+     2281 ccatgatatc gggatatgcc caaaatggca ggattgatga ggcacgggaa ttatttgata
+     2341 aaatgcctga acgtgacgtg gtgtcatgga acgctatgat ctccgggtac gcccaaaacg
+     2401 gacggatcga cgaagcccgt gaacttttcg acaaaatgcc agagcgtaac gttgtttcgc
+     2461 gagaccacga a
+//
+LOCUS       PPR2_28_pAGM9121        2471 bp    DNA     circular UNA 11-FEB-2025
+DEFINITION  pAGM9121, pPR-1_2A_LN5N_-_pAGM1311, pPR-1_B_LN5T_-_pAGM1311,
+            pPR-1_C_LD5N_-_pAGM1311, pPR-1_D_LD5N_-_pAGM1311,
+            pPR-1_2E_LD_-_pAGM1311.
+ACCESSION   urn.local...95i-hkty6bg
+VERSION     urn.local...95i-hkty6bg
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             285..1076
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy, 
+                     1985)"
+                     /note="confers resistance to spectinomycin and 
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKP
+                     HSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYP
+                     AKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQ
+                     DLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPA
+                     QYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+                     /standard_name="SmR"
+     rep_origin      1417..2005
+     primer_bind     1906..1925
+                     /note="pBR322 origin, forward primer"
+                     /standard_name="pBR322ori-F"
+     CDS             2055..2144
+     protein_bind    2076..2078
+                     /standard_name="N"
+     protein_bind    2091..2093
+                     /standard_name="N"
+     CDS             2145..2231
+     protein_bind    2169..2171
+                     /standard_name="N"
+     protein_bind    2184..2186
+                     /standard_name="T"
+     CDS             2232..2321
+     protein_bind    2262..2264
+                     /standard_name="D"
+     protein_bind    2277..2279
+                     /standard_name="N"
+     CDS             2322..2420
+     protein_bind    2355..2357
+                     /standard_name="D"
+     protein_bind    2370..2372
+                     /standard_name="N"
+     CDS             2420..2456
+                     /codon_start=2
+     protein_bind    2448..2450
+                     /standard_name="D"
+ORIGIN      
+        1 gtgccgaggc acgaacccag tggacataag cctgttcggt tcgtaagctg taatgcaagt
+       61 agcgtatgcg ctcacgcaac tggtccagaa ccttgaccga acgcagcggt ggtaacggcg
+      121 cagtggcggt tttcatggct tgttatgact gtttttttgg ggtacagtct atgcctcggg
+      181 catccaagca gcaagcgcgt tacgccgtgg gtcgatgttt gatgttatgg agcagcaacg
+      241 atgttacgca gcagggcagt cgccctaaaa caaagttaaa catcatgggg gaagcggtga
+      301 tcgccgaagt atcgactcaa ctatcagagg tagttggcgt catcgagcgc catctcgaac
+      361 cgacgttgct ggccgtacat ttgtacggct ccgcagtgga tggcggcctg aagccacaca
+      421 gcgatattga tttgctggtt acggtgaccg taaggcttga tgaaacaacg cggcgagctt
+      481 tgatcaacga ccttttggaa acttcggctt cccctggaga gagcgagatt ctccgcgctg
+      541 tagaagtcac cattgttgtg cacgacgaca tcattccgtg gcgttatcca gctaagcgcg
+      601 aactgcaatt tggagaatgg cagcgcaatg acattcttgc aggtatcttc gagccagcca
+      661 cgatcgacat tgatctggct atcttgctga caaaagcaag agaacatagc gttgccttgg
+      721 taggtccagc ggcggaggaa ctctttgatc cggttcctga acaggatcta tttgaggcgc
+      781 taaatgaaac cttaacgcta tggaactcgc cgcccgactg ggctggcgat gagcgaaatg
+      841 tagtgcttac gttgtcccgc atttggtaca gcgcagtaac cggcaaaatc gcgccgaagg
+      901 atgtcgctgc cgactgggca atggagcgcc tgccggccca gtatcagccc gtcatacttg
+      961 aagctagaca ggcttatctt ggacaagaag aagatcgctt ggcctcgcgc gcagatcagt
+     1021 tggaagaatt tgtccattac gtgaaaggcg agatcaccaa ggtagtcggc aaataatgtc
+     1081 tagctagaaa ttcgttcaag ccgacgccgc ttcgcggcgc ggcttaactc aagcgttaga
+     1141 tgcactaagc acataattgc tcacagccaa actatcaggt caagtctgct tttattattt
+     1201 ttaagcgtgc ataataagcc ctacacaaat tgggagatat atcatgctgt cagaccaagt
+     1261 ttactcatat atactttaga ttgatttaaa acttcatttt taatttaaaa ggatctaggt
+     1321 gaagatcctt tttgataatc tcatgaccaa aatcccttaa cgtgagtttt cgttccactg
+     1381 agcgtcagac cccgtagaaa agatcaaagg atcttcttga gatccttttt ttctgcgcgt
+     1441 aatctgctgc ttgcaaacaa aaaaaccacc gctaccagcg gtggtttgtt tgccggatca
+     1501 agagctacca actctttttc cgaaggtaac tggcttcagc agagcgcaga taccaaatac
+     1561 tgttcttcta gtgtagccgt agttaggcca ccacttcaag aactctgtag caccgcctac
+     1621 atacctcgct ctgctaatcc tgttaccagt ggctgctgcc agtggcgata agtcgtgtct
+     1681 taccgggttg gactcaagac gatagttacc ggataaggcg cagcggtcgg gctgaacggg
+     1741 gggttcgtgc acacagccca gcttggagcg aacgacctac accgaactga gatacctaca
+     1801 gcgtgagcta tgagaaagcg ccacgcttcc cgaagggaga aaggcggaca ggtatccggt
+     1861 aagcggcagg gtcggaacag gagagcgcac gagggagctt ccagggggaa acgcctggta
+     1921 tctttatagt cctgtcgggt ttcgccacct ctgacttgag cgtcgatttt tgtgatgctc
+     1981 gtcagggggg cggagcctat ggaaaaacgc cagcaacgcg gcctttttac ggttcctgca
+     2041 ctctgtggtc tcacttcgat aaaatgccag agaggaatgt tgtttcttgg aatgcgatga
+     2101 tctctggtta tgcacagaac ggtaggatag acgaagcaag agaactcttc gataagatgc
+     2161 ctgaaagaaa cgttgtttct tggaccgcaa tgatctctgg ttacgctcag aacggtagga
+     2221 tcgatgaggc aagagaattg tttgacaaaa tgccagaaag agacgtagtg agctggaacg
+     2281 ccatgatatc gggatatgcc caaaatggca ggattgatga ggcacgggaa ttatttgata
+     2341 aaatgcctga acgtgacgtg gtgtcatgga acgctatgat ctccgggtac gcccaaaacg
+     2401 gacggatcga cgaagcccgt gaacttttcg acaaaatgcc agagcgtgat gttgtttcgc
+     2461 gagaccacga a
+//

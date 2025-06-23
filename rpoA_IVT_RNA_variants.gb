@@ -1,0 +1,1518 @@
+LOCUS       rpoA                     129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...7u-is9s2w3
+VERSION     urn.local...7u-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v2                  129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...7v-is9s2w3
+VERSION     urn.local...7v-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aaatacacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v3                  129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...7w-is9s2w3
+VERSION     urn.local...7w-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aactacacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v4                  129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...7x-is9s2w3
+VERSION     urn.local...7x-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aagtacacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v5                  129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...7y-is9s2w3
+VERSION     urn.local...7y-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aataacacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v6                  129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...7z-is9s2w3
+VERSION     urn.local...7z-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aatcacacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v7                  129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...80-is9s2w3
+VERSION     urn.local...80-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aatgacacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v8                  129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...81-is9s2w3
+VERSION     urn.local...81-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattccacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v9                  129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...82-is9s2w3
+VERSION     urn.local...82-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattgcacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v10                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...83-is9s2w3
+VERSION     urn.local...83-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aatttcacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v11                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...84-is9s2w3
+VERSION     urn.local...84-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattaaacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v12                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...85-is9s2w3
+VERSION     urn.local...85-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattagacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v13                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...86-is9s2w3
+VERSION     urn.local...86-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattatacgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v14                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...87-is9s2w3
+VERSION     urn.local...87-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacccgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v15                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...88-is9s2w3
+VERSION     urn.local...88-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacgcgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v16                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...89-is9s2w3
+VERSION     urn.local...89-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattactcgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v17                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8a-is9s2w3
+VERSION     urn.local...8a-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacaagt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v18                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8b-is9s2w3
+VERSION     urn.local...8b-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacaggt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v19                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8c-is9s2w3
+VERSION     urn.local...8c-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacatgt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v20                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8d-is9s2w3
+VERSION     urn.local...8d-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacat gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v21                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8e-is9s2w3
+VERSION     urn.local...8e-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacct gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v22                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8f-is9s2w3
+VERSION     urn.local...8f-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacactt gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v23                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8g-is9s2w3
+VERSION     urn.local...8g-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacga gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v24                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8h-is9s2w3
+VERSION     urn.local...8h-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgc gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v25                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8i-is9s2w3
+VERSION     urn.local...8i-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgg gcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v26                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8j-is9s2w3
+VERSION     urn.local...8j-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt acaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v27                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8k-is9s2w3
+VERSION     urn.local...8k-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt ccaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v28                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8l-is9s2w3
+VERSION     urn.local...8l-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt tcaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v29                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8m-is9s2w3
+VERSION     urn.local...8m-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gaaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v30                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8n-is9s2w3
+VERSION     urn.local...8n-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt ggaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v31                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8o-is9s2w3
+VERSION     urn.local...8o-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gtaaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v32                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8p-is9s2w3
+VERSION     urn.local...8p-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gccaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v33                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8q-is9s2w3
+VERSION     urn.local...8q-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcgaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v34                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8r-is9s2w3
+VERSION     urn.local...8r-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gctaaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v35                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8s-is9s2w3
+VERSION     urn.local...8s-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcacaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v36                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8t-is9s2w3
+VERSION     urn.local...8t-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcagaatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v37                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8u-is9s2w3
+VERSION     urn.local...8u-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcataatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v38                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8v-is9s2w3
+VERSION     urn.local...8v-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcaacatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v39                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8w-is9s2w3
+VERSION     urn.local...8w-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcaagatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v40                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8x-is9s2w3
+VERSION     urn.local...8x-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcaatatcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v41                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8y-is9s2w3
+VERSION     urn.local...8y-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcaaactcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v42                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...8z-is9s2w3
+VERSION     urn.local...8z-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcaaagtcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v43                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...90-is9s2w3
+VERSION     urn.local...90-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcaaattcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v44                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...91-is9s2w3
+VERSION     urn.local...91-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcaaaaacaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v45                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...92-is9s2w3
+VERSION     urn.local...92-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcaaaaccaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
+LOCUS       rpoA_v46                 129 bp    RNA     linear   UNA 11-FEB-2025
+DEFINITION  .
+ACCESSION   urn.local...93-is9s2w3
+VERSION     urn.local...93-is9s2w3
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     primer_bind     12..36
+                     /standard_name="NGS PCR fwd i1"
+     misc_feature    16
+                     /note="Geneious type: mismatch"
+                     /standard_name="U/G"
+     misc_feature    17
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    18
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/A"
+     misc_feature    19
+                     /note="Geneious type: mismatch"
+                     /standard_name="C/G"
+     misc_RNA        43..58
+                     /standard_name="PPR_Targ"
+     primer_bind     complement(62..78)
+                     /standard_name="NGS RT PCR rev i1"
+     primer_bind     complement(66..82)
+                     /standard_name="NGS_RT_generic"
+ORIGIN      
+        1 gaaaccacaa cggtttccct tcggatcggc tcttcagcga aattacacgt gcaaaagcaa
+       61 acatccctgg cagacacata gcataacccc ttggggcctc taaacgggtc tttgaggggt
+      121 tatgcgcct
+//
